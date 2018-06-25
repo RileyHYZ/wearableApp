@@ -514,9 +514,6 @@ function sleepLineGraph() {
             //margin: 0
         },
         legend: {
-            //horizontalAlign: "right"
-            dockInsidePlotArea: true,
-            itemWidth: 60 //hardcoded
         },
         data: [{
             type: "pie",
